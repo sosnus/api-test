@@ -1,1 +1,14 @@
 kiosks/tasks/601167d1ef59ebadab199bcb.json
+
+
+/kiosks/tasks/601167d1ef59ebadab199bcb.json
+
+kiosks/tasks/601167d1ef59ebadab199bcb.json
+
+https://sosnus.github.io/api-test
+
+sosnus.github.io/api-test/
+api-test/kiosks/tasks/601167d1ef59ebadab199bcb.json
+
+jsonplaceholder.typicode.com
+albums/1
